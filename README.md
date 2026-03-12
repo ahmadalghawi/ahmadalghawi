@@ -10,9 +10,9 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Full Stack Developer at **Cognes**
-- 🔧 Building mobile apps with **Expo + React Native**, web apps with **Next.js**, and backend APIs with **Node.js & Firebase**
-- 🧠 Currently learning advanced **Next.js App Router**, **DevOps**, and **AI integration**
+- 💼 Full Stack Engineer, AI Engineer
+- 🔧 Building mobile/Web apps with **Expo + React Native**, web apps with **Next.js/React**, and backend APIs with **Node.js & Firebase**
+- 🧠 Currently learning advanced **Laravel 12**, **DevOps**, and **AI integration**
 - 🌍 Based in Malmö, Sweden
 - 🌐 Personal Website: [ahmadalghawi.com](https://ahmadalghawi.com)
 - 🧾 Portfolio: [View Projects](https://my-portfolio-pi-seven-96.vercel.app/)
